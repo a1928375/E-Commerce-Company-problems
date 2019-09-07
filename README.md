@@ -1,6 +1,7 @@
 # E-Commerce-Company-problems
 
 1. 
+
     (1) You've been given a list of historical stock prices for a single day for Amazon stock. The index of the list represents the             timestamp, so the element at index of 0 is the initial price of the stock, the element at index 1 is the next recorded price of the         stock for that day, etc. Your task is to write a function that will return the maximum profit possible from the purchase and sale of a     single share of Amazon stock on that day. Keep in mind to try to make this as efficient as possible.
 
     (2) For example, if you were given the list of stock prices:     prices = [12,11,15,3,10]
