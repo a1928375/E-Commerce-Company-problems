@@ -17,10 +17,9 @@
 3. 
     (1) Given two rectangles, determine if they overlap. The rectangles are defined as a Dictionary, for example:
 
-     r1 = {# x and y coordinates of the bottom-left corner of the rectangle
-         'x': 2 , 'y': 4,
-          # Width and Height of rectangle
-          'w':5,'h':12}
+     r1 = {'x': 2 , 'y': 4, 'w':5, 'h':12}
+           # x and y coordinates of the bottom-left corner of the rectangle
+           # Width and Height of rectangle
 
      (2) If the rectangles do overlap, return the dictionary which describes the overlapping section
 
