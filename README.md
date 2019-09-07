@@ -19,7 +19,6 @@
 
      r1 = {# x and y coordinates of the bottom-left corner of the rectangle
          'x': 2 , 'y': 4,
-         
           # Width and Height of rectangle
           'w':5,'h':12}
 
