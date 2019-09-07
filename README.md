@@ -7,7 +7,7 @@
     (2) For example, if you were given the list of stock prices:     prices = [12,11,15,3,10]
     Then your function would return the maximum possible profit, which would be 7 (buying at 3 and selling at 10).
 
-    (3) Requirements
+    (3) Requirements: 
     Try to solve this problem with paper/pencil first without using an IDE. Also keep in mind you should be able to come up with a better       solution than just brute forcing every possible sale combination. Also you can't "short" a stock, you must buy before you sell the         stock.
     
 2. Question 2
@@ -26,5 +26,5 @@
 
      (2) If the rectangles do overlap, return the dictionary which describes the overlapping section
 
-     (3) Requirements
+     (3) Requirements: 
      Make sure the dictionary you output is in the same form as the input.
